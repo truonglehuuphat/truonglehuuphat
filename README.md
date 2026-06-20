@@ -1,7 +1,8 @@
 ## Hi Guys 👋
-I'm Phat, I'm an honest person, and I have plenty of free time, so I always do what I say I'll do. I often go for walks and take pictures on weekends. reading a book on morning and evening. I'm exicite about technicoly and reading book.
+I'm Phat, I'm an honest person, and I have plenty of free time, so I always do what I say I'll do. 
+I often go for walks and take pictures on weekends. reading a book on morning and evening. I'm exicite about technicoly and reading book.
 I begin carrer embbeded test engineer at FPT software and then K solution.
-I learned embbedlinux, kenerl, device tree, c/c++, get a certification ISQTB
+I learned embbedlinux, kenerl, device tree, c/c++, get a certification ISQTB.
 
 
 
